@@ -43,7 +43,7 @@ The following table summarises my individual technical and business contribution
 
 | Competency | Individual Contribution | Evidence |
 |---|---|---|
-| Data Preparation | Removed duplicate records, corrected data types, handled missing or invalid values, validated transaction fields, transformed variables and exported the cleaned dataset. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio)
+| Data Preparation | Removed duplicate records, corrected data types, handled missing or invalid values, validated transaction fields, transformed variables and exported the cleaned dataset. | [Final Notebook] (4061218C_ITD224_Final_Notebook.ipynb)
 [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio)|
 | Feature Engineering | Created remaining lease years, resale year and month, flat age, storey midpoint and outlier indicators for analysis and modelling. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio) |
 | Exploratory Data Analysis | Analysed resale-price trends, towns, flat types, price distributions, remaining lease, scatterplots, boxplots and correlations. | [EDA Figures](images/) |
