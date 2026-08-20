@@ -4,7 +4,7 @@
 
 This chart shows how average HDB resale prices changed across the study period.
 
-![Annual average HDB resale price trend](images/06_Average_HDB_Resale_Price_Trend_By_Year.png)
+![Annual average HDB resale price trend](images/06_Average_HDB_Resale_Price_Trend_By_Year.png).
 
 ### Average Resale Price by Town
 
