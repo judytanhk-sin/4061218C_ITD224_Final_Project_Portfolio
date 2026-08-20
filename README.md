@@ -43,10 +43,10 @@ The following table summarises my individual technical and business contribution
 
 | Competency | Individual Contribution | Evidence |
 |---|---|---|
-| Data Preparation | Removed duplicate records, corrected data types, handled missing or invalid values, validated transaction fields, transformed variables and exported the cleaned dataset. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio) |
+| Data Preparation | Removed duplicate records, corrected data types, handled missing or invalid values, validated transaction fields, transformed variables and exported the cleaned dataset. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio)|
 | Feature Engineering | Created remaining lease years, resale year and month, flat age, storey midpoint and outlier indicators for analysis and modelling. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio) |
 | Exploratory Data Analysis | Analysed resale-price trends, towns, flat types, price distributions, remaining lease, scatterplots, boxplots and correlations. | [EDA Figures](images/) |
-| Modelling | Developed and compared three regression pipelines using a chronological train-test split and hyperparameter comparison. | [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio) |
+| Modelling | Developed and compared three regression pipelines using a chronological train-test split and hyperparameter comparison. |  [Final Notebook](4061218C_ITD224_Final_Project_Portfolio/4061218C_ITD224_Final_Notebook.ipynb at main · judytanhk-sin/4061218C_ITD224_Final_Project_Portfolio) |
 | Evaluation | Evaluated models using MAE, RMSE and R², together with residual analysis, segment performance and feature importance. | [Model Evaluation Figures](images/) |
 | Business Communication | Assessed whether the final model met the business objective and presented recommendations, limitations and a proposed deployment workflow. | [Portfolio Report](4061218C_ITD224_Final_Project_Portfolio_Report.pdf) |
 
