@@ -79,11 +79,11 @@ and an R² of 0.937. This means that the final model explained approximately
 
 ## Selected Visualizations
 
-![HDB price trend](images/01_price_trend.png)
+![HDB price trend](images/06_Average_HDB_Resale_Price_Trend_By_Year.png)
 
-![Average price by town](images/02_average_price_by_town.png)
+![Average price by town](images/03_Average_HDB_Resale_Price_by_Town.png)
 
-![Correlation heatmap](images/03_correlation_heatmap.png)
+![Correlation heatmap](images/15_Correlation_Heatmap.png)
 
 ## How to Run the Project
 
